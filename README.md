@@ -1,6 +1,6 @@
 # Concurrent LLM Inference on an 8 GB GPU
 
-Companion repository for the Medium article **"Fitting Is Not Serving: What an 8 GB GPU Can Actually Do With Concurrent LLM Requests"** (link to be added on publication).
+Companion repository for the Medium article [**"Fitting Is Not Serving: What an 8 GB GPU Can Actually Do With Concurrent LLM Requests"**](https://medium.com/@dugboryeleprince/fitting-is-not-serving-what-an-8-gb-gpu-can-actually-do-with-concurrent-llm-requests-4878f37632cb).
 
 Controlled study of how quantization, context length, KV-cache allocation and inference-engine memory management determine the maximum sustainable concurrent workload on an NVIDIA RTX 5060 Laptop GPU (8151 MiB VRAM). Engines: vLLM, llama.cpp, Ollama.
 

@@ -1,0 +1,1 @@
+Explain in two sentences what a KV cache is in transformer inference.

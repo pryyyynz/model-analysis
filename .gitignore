@@ -1,0 +1,24 @@
+# Large binary artifacts: model weights and engine source/builds.
+# Versions are pinned in README.md; obtain weights separately.
+models/
+engines/
+*.gguf
+*.safetensors
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Internal planning docs and article drafts (prose lives on Medium).
+# README.md is the only markdown tracked.
+*.md
+!README.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

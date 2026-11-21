@@ -1,0 +1,9 @@
+engine,model,concurrency
+llama.cpp,Gemma-4-12B-Q4_K_M,1.0
+llama.cpp,Llama-3.1-8B-Q4_K_M,4.0
+llama.cpp,Qwen2.5-7B-Q4_K_M,4.0
+ollama,llama3.1:8b,2.0
+ollama,qwen2.5:7b,2.0
+vllm,/home/prince/.cache/huggingface/hub/models--Qwen--Qwen2.5-0.5B-Instruct/snapshots/7ae557604adf67be50417f59c2c2f167def9a775,16.0
+vllm,/home/prince/.cache/huggingface/hub/models--Qwen--Qwen2.5-3B-Instruct/snapshots/aa8e72537993ba99e69dfaafa59ed015b17504d1,16.0
+vllm,/home/prince/.cache/huggingface/hub/models--Qwen--Qwen2.5-7B-Instruct-AWQ/snapshots/b25037543e9394b818fdfca67ab2a00ecc7dd641,16.0
